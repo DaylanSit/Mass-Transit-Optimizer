@@ -37,7 +37,7 @@ public class GoBus extends MTOTransit{
 		  this.unitNumber = bus.unitNumber;
 		  this.identification = bus.identification;
 		  this.capacity = bus.capacity;
-		  type = BUS;
+		  type = GOBUS;
 	  	  
 	}
 	
